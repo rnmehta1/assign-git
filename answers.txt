@@ -32,4 +32,4 @@ A fast-forward is done by git when merging with a branch that is ahead of your b
 Branches help organize the workflow better. Since each developer in a team is working on different things, you can keep workin on your branch regardless of what's happening in other branches.
 
 • In a project how many remote Git repositories do you usually have?
-Usually, there is only 1 repository in a project. Although we can have as many remote local repositories as we want, but only 1 can be the "origin".
+Usually, there is only 1 repository in a project. Although we can have as many remote repositories as we want, but only 1 can be the "origin".
